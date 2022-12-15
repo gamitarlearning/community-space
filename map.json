@@ -155,7 +155,7 @@
          "height":21,
          "id":9,
          "name":"walls",
-         "opacity":0.29,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":31,
